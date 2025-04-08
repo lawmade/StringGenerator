@@ -1,4 +1,6 @@
-# MADE WITH ❤️ BY LAW
-- easy to use
+## Information
 - 5 character only as of now
-- newest version: 1.20
+- easy to use (command prompt)
+- newest version = 1.20
+
+made with ❤️ by law
