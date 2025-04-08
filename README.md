@@ -3,4 +3,4 @@
 - easy to use (command prompt)
 - newest version = 1.20
 
-made with ❤️ by law
+made with ❤️ by law & max the elf
