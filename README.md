@@ -1,6 +1,4 @@
 ## Information
-- 5 character only as of now
-- easy to use (command prompt)
-- newest version = 1.20
+- 5 character string generator (could also be used for usernames)
 
-made with ❤️ by law & max the elf
+made with ❤️ by law
